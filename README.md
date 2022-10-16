@@ -1,2 +1,6 @@
 # TODO-in-JSP
-https://jsp-todo-lists.herokuapp.com/todo.jsp
+[Live Demo](https://jsp-todo-lists.herokuapp.com/todo.jsp)
+
+---
+
+Installation Documentation coming soon...
